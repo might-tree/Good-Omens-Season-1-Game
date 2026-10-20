@@ -100,5 +100,4 @@ Everything else is from the Python standard library. Don't install the original
 
 ## Credits
 
-Fan project based on *Good Omens* by Terry Pratchett and Neil Gaiman, and the Amazon /
-BBC TV adaptation. Not affiliated with or endorsed by the authors or studios.
+Fan project based on *Good Omens* by Terry Pratchett and Neil Gaiman, and the Amazon Prime adaptation. Not affiliated with or endorsed by the authors or studios.
